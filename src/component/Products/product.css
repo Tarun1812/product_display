@@ -1,0 +1,9 @@
+.prodcontainer{
+    border: 1px solid purple;
+    height: 400px;
+}
+.prodcontainer img {
+    width: 42%;
+    float: left;
+    height: 383px;
+}

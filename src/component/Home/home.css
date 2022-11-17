@@ -1,0 +1,19 @@
+
+.container {
+    /* border: 1px solid red; */
+    width: 90%;
+    height: 913px;
+    margin-top: 1%;
+   
+
+}
+.card{
+    /* border: 1px solid black; */
+    width: 25%;
+    height: 300px;
+    display: inline;
+    float: left;
+    margin-left: 75px;
+    margin-top: 21px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
