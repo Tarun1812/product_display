@@ -1,11 +1,7 @@
-table, th, td{
+
+th, td{
     border: 1px solid black;
-    width: 60%;
-    
-}
-table, th{
+    width: 32%;
     text-align: center;
-}
-.listcontainer{
     
 }
